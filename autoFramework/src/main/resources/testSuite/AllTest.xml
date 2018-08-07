@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="LoginTest">
+    <classes>
+      <class name="com.autoFramework.myCompany.myProjectFramework.testScripts.loginPage.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="RegistrationTest">
+    <classes>
+      <class name="com.autoFramework.myCompany.myProjectFramework.testScripts.registration.RegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="VerifyLowestFirstPriceFilterTest">
+    <classes>
+      <class name="com.autoFramework.myCompany.myProjectFramework.testScripts.productDetailsPage.VerifyLowestFirstPriceFilterTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+<listeners>
+<listener class-name="com.autoFramework.myCompany.myProjectFramework.helper.listener.ExtentListener"></listener>
+</listeners>
+  <test thread-count="5" name="First Test">
+    <classes>
+      <class name="com.autoFramework.A"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Second Test">
+    <classes>
+      <class name="com.autoFramework.B"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Third Test">
+    <classes>
+      <class name="com.autoFramework.C"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="TestScreenshot">
+    <classes>
+      <class name="com.autoFramework.myCompany.myProjectFramework.testScripts.TestScreenshot1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

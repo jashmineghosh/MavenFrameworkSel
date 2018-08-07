@@ -1,0 +1,351 @@
+2018-07-27 19:07:734 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:43 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:119 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:201 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:922 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:931 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:953 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:957 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:649 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:658 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:677 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:681 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:301 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:563 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 19:07:643 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 19:07:715 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 20:07:972 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 20:07:982 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 20:07:11 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 20:07:16 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 20:07:85 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 20:07:94 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 20:07:118 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 20:07:121 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 20:07:15 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 20:07:324 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-27 20:07:397 INFO  AssertionHelper:20 - making script PASS..
+2018-07-27 20:07:451 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-28 23:07:694 INFO  AssertionHelper:20 - making script PASS..
+2018-07-28 23:07:32 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-28 23:07:128 INFO  AssertionHelper:20 - making script PASS..
+2018-07-28 23:07:212 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-28 23:07:194 INFO  AssertionHelper:20 - making script PASS..
+2018-07-28 23:07:473 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-28 23:07:563 INFO  AssertionHelper:20 - making script PASS..
+2018-07-28 23:07:617 INFO  AssertionHelper:30 - making script FAIL..
+2018-07-29 00:07:118 INFO  TestBase:121 - The driver is not executable: /Users/arnabbhuiya/eclipse-workspace/autoFramework/src/main/resources/drivers/chromedriver
+2018-07-29 00:07:907 INFO  TestBase:131 - Initialize Web driver: 884860061
+2018-07-29 00:07:913 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-29 00:07:913 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-29 00:07:921 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-29 00:07:925 INFO  WaitHelper:144 - page is loaded
+2018-07-29 00:07:684 INFO  TestBase:131 - Initialize Web driver: 884860061
+2018-07-29 00:07:691 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-29 00:07:692 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-29 00:07:702 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-29 00:07:706 INFO  WaitHelper:144 - page is loaded
+2018-07-30 13:07:631 INFO  TestBase:131 - Initialize Web driver: 1323434987
+2018-07-30 13:07:640 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 13:07:641 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 13:07:647 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 13:07:651 INFO  WaitHelper:144 - page is loaded
+2018-07-30 13:07:100 INFO  TestBase:131 - Initialize Web driver: 1014794348
+2018-07-30 13:07:101 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 13:07:101 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 13:07:105 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 13:07:109 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:33 INFO  TestBase:131 - Initialize Web driver: 369347944
+2018-07-30 14:07:39 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:40 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:47 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:53 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:339 INFO  TestBase:131 - Initialize Web driver: 640808588
+2018-07-30 14:07:340 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:341 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:345 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:350 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:579 INFO  TestBase:131 - Initialize Web driver: 369347944
+2018-07-30 14:07:583 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:584 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:591 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:594 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:899 INFO  TestBase:131 - Initialize Web driver: 640808588
+2018-07-30 14:07:899 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:899 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:903 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:909 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:649 INFO  TestBase:131 - Initialize Web driver: 369347944
+2018-07-30 14:07:653 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:653 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:659 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:663 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:00 INFO  TestBase:131 - Initialize Web driver: 640808588
+2018-07-30 14:07:00 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:00 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:04 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:07 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:814 INFO  TestBase:131 - Initialize Web driver: 369347944
+2018-07-30 14:07:820 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:820 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:827 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:831 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:346 INFO  TestBase:131 - Initialize Web driver: 640808588
+2018-07-30 14:07:347 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:347 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:351 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:355 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:89 INFO  TestBase:131 - Initialize Web driver: 369347944
+2018-07-30 14:07:95 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:96 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:102 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:106 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:319 INFO  TestBase:131 - Initialize Web driver: 873827336
+2018-07-30 14:07:320 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:320 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:324 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:328 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:260 INFO  TestBase:131 - Initialize Web driver: 369347944
+2018-07-30 14:07:264 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:265 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:272 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:277 INFO  WaitHelper:144 - page is loaded
+2018-07-30 14:07:397 INFO  TestBase:131 - Initialize Web driver: 640808588
+2018-07-30 14:07:398 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 14:07:398 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 14:07:403 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 14:07:406 INFO  WaitHelper:144 - page is loaded
+2018-07-30 15:07:907 INFO  TestBase:131 - Initialize Web driver: 1932597611
+2018-07-30 15:07:913 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 15:07:914 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 15:07:968 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 15:07:972 INFO  WaitHelper:144 - page is loaded
+2018-07-30 15:07:622 INFO  TestBase:136 - Initialize Web driver: 369347944
+2018-07-30 15:07:625 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 15:07:625 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 15:07:631 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 15:07:634 INFO  WaitHelper:144 - page is loaded
+2018-07-30 15:07:450 INFO  TestBase:136 - Initialize Web driver: 1668837760
+2018-07-30 15:07:450 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 15:07:450 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 15:07:454 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 15:07:458 INFO  WaitHelper:144 - page is loaded
+2018-07-30 15:07:24 INFO  TestBase:136 - Initialize Web driver: 1021258849
+2018-07-30 15:07:28 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 15:07:29 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 15:07:36 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 15:07:40 INFO  WaitHelper:144 - page is loaded
+2018-07-30 15:07:695 INFO  TestBase:136 - Initialize Web driver: 1025001676
+2018-07-30 15:07:695 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 15:07:696 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 15:07:700 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 15:07:704 INFO  WaitHelper:144 - page is loaded
+2018-07-30 15:07:434 INFO  TestBase:136 - Initialize Web driver: 1336777650
+2018-07-30 15:07:435 INFO  WaitHelper:27 - WaitHelper object created..
+2018-07-30 15:07:435 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-07-30 15:07:440 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-07-30 15:07:444 INFO  WaitHelper:144 - page is loaded
+2018-07-31 12:07:648 INFO  DataBaseHelper:32 - Driver not found..java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+2018-07-31 12:07:483 INFO  DataBaseHelper:32 - Driver not found..java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+2018-07-31 12:07:232 INFO  DataBaseHelper:44 - Driver not found..java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+2018-07-31 12:07:571 INFO  DataBaseHelper:44 - Driver not found..java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+2018-07-31 13:07:453 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 13:07:912 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 13:07:892 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 13:07:895 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM QAdbt.Employeeinfo where id=21
+2018-07-31 13:07:58 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 13:07:59 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM QAdbt.Employeeinfo where id=21
+2018-07-31 13:07:204 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 13:07:207 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM QAdbt.Employeeinfo where id=11
+2018-07-31 13:07:807 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 13:07:810 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM Employeeinfo where id=11
+2018-07-31 14:07:521 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 14:07:525 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-07-31 14:07:452 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 14:07:455 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-07-31 14:07:923 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 14:07:926 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-07-31 14:07:303 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 14:07:306 INFO  DataBaseHelper:58 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-07-31 14:07:382 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 14:07:384 INFO  DataBaseHelper:60 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-07-31 14:07:133 ERROR DataBaseHelper:43 - Failed to create Data base connection..com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2018-07-31 14:07:135 INFO  DataBaseHelper:60 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-07-31 14:07:843 INFO  DataBaseHelper:40 - Connected to data base..
+2018-07-31 14:07:847 INFO  DataBaseHelper:62 - Executing query: SELECT age FROM Employeeinfo where id=1
+2018-08-03 16:08:883 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 16:08:888 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:889 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 16:08:897 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 16:08:901 INFO  WaitHelper:144 - page is loaded
+2018-08-03 16:08:844 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:876 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (201ad781adff596541aaa95c7c78c2cb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-08-03 16:08:911 INFO  WaitHelper:157 - element is visible now
+2018-08-03 16:08:626 INFO  LoginPage:66 - clicked on sign in link...
+2018-08-03 16:08:457 INFO  LoginPage:73 - entering email address....1529686406836@gmail.com
+2018-08-03 16:08:674 INFO  LoginPage:79 - entering password....password
+2018-08-03 16:08:775 INFO  LoginPage:85 - clicking on submit button...
+2018-08-03 16:08:777 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2018-08-03 16:08:778 INFO  JavaScriptHelper:87 - scrolling down vertically...
+2018-08-03 16:08:305 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:323 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (201ad781adff596541aaa95c7c78c2cb)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-08-03 16:08:349 INFO  WaitHelper:157 - element is visible now
+2018-08-03 16:08:416 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-03 16:08:956 INFO  TestBase:144 - Initialize Web driver: 441001942
+2018-08-03 16:08:962 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:974 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 16:08:979 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:979 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 16:08:669 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 16:08:674 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:675 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 16:08:681 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 16:08:685 INFO  WaitHelper:144 - page is loaded
+2018-08-03 16:08:565 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 16:08:570 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 16:08:570 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 16:08:576 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 16:08:580 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:910 INFO  TestBase:144 - Initialize Web driver: 548554586
+2018-08-03 22:08:915 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:916 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:921 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:925 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:123 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:153 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (e139da722f23fd3746c3fb8227bc5f56)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-08-03 22:08:195 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:199 INFO  LoginPage:66 - clicked on sign in link...
+2018-08-03 22:08:697 INFO  LoginPage:73 - entering email address....1529686406836@gmail.com
+2018-08-03 22:08:925 INFO  LoginPage:79 - entering password....password
+2018-08-03 22:08:19 INFO  LoginPage:85 - clicking on submit button...
+2018-08-03 22:08:23 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2018-08-03 22:08:23 INFO  JavaScriptHelper:87 - scrolling down vertically...
+2018-08-03 22:08:922 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:943 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (e139da722f23fd3746c3fb8227bc5f56)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-08-03 22:08:968 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:49 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-03 22:08:210 INFO  TestBase:144 - Initialize Web driver: 1866229258
+2018-08-03 22:08:211 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:211 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:214 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:217 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:458 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:612 INFO  WaitHelper:154 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a' for :200 seconds
+2018-08-03 22:08:640 INFO  TestBase:144 - Initialize Web driver: 85415531
+2018-08-03 22:08:641 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:642 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:645 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:649 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:857 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:869 INFO  WaitHelper:154 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2018-08-03 22:08:773 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 22:08:778 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:779 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:786 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:790 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:118 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:547 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 22:08:552 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:552 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:558 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:562 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:749 INFO  TestBase:144 - Initialize Web driver: 11249189
+2018-08-03 22:08:757 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:757 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:765 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:769 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:696 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:719 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (ee4fea2b833ead52e8b46cc903f98b71)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-08-03 22:08:748 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:92 INFO  LoginPage:66 - clicked on sign in link...
+2018-08-03 22:08:674 INFO  LoginPage:100 - entering registration email..1533315542674@gmail.com
+2018-08-03 22:08:982 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:429 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (ee4fea2b833ead52e8b46cc903f98b71)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2018-08-03 22:08:460 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:461 INFO  RegistrationPage:101 - selecting mr checkbox..
+2018-08-03 22:08:553 INFO  RegistrationPage:113 - entering firstName..firstName
+2018-08-03 22:08:748 INFO  RegistrationPage:119 - entering lastname..lastname
+2018-08-03 22:08:858 INFO  RegistrationPage:131 - entering password..password
+2018-08-03 22:08:995 INFO  RegistrationPage:199 - entering address..address
+2018-08-03 22:08:684 INFO  RegistrationPage:181 - entering yourAddressFirstName..yourAddressFirstName
+2018-08-03 22:08:899 INFO  RegistrationPage:187 - entering yourAddressLastName..yourAddressLastName
+2018-08-03 22:08:72 INFO  RegistrationPage:193 - entering yourAddressCompany..yourAddressCompany
+2018-08-03 22:08:233 INFO  RegistrationPage:211 - entering yourAddressCity..yourAddressCity
+2018-08-03 22:08:374 INFO  RegistrationPage:217 - entering yourAddressState..Alaska
+2018-08-03 22:08:504 INFO  RegistrationPage:223 - entering yourAddressPostCode..99501
+2018-08-03 22:08:605 INFO  RegistrationPage:241 - entering mobilePhone..9999999999
+2018-08-03 22:08:741 INFO  RegistrationPage:247 - entering addressAlias..addressAlias
+2018-08-03 22:08:889 INFO  RegistrationPage:253 - clicked on registration..[[ChromeDriver: chrome on MAC (ee4fea2b833ead52e8b46cc903f98b71)] -> xpath: //*[@id='submitAccount']]
+2018-08-03 22:08:807 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:831 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (ee4fea2b833ead52e8b46cc903f98b71)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2018-08-03 22:08:854 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:924 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-03 22:08:230 INFO  WaitHelper:154 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a' for :200 seconds
+2018-08-03 22:08:36 INFO  TestBase:144 - Initialize Web driver: 548554586
+2018-08-03 22:08:40 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:40 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:46 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:50 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:304 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:334 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (c74a039a3aea2a1d3e1e7dd5db1dcfe1)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-08-03 22:08:375 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:847 INFO  LoginPage:66 - clicked on sign in link...
+2018-08-03 22:08:998 INFO  LoginPage:73 - entering email address....1529686406836@gmail.com
+2018-08-03 22:08:187 INFO  LoginPage:79 - entering password....password
+2018-08-03 22:08:286 INFO  LoginPage:85 - clicking on submit button...
+2018-08-03 22:08:287 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2018-08-03 22:08:287 INFO  JavaScriptHelper:87 - scrolling down vertically...
+2018-08-03 22:08:871 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:888 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (c74a039a3aea2a1d3e1e7dd5db1dcfe1)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-08-03 22:08:913 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:20 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-03 22:08:727 INFO  TestBase:144 - Initialize Web driver: 1175371136
+2018-08-03 22:08:728 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:728 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:733 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:736 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:865 INFO  TestBase:144 - Initialize Web driver: 15024899
+2018-08-03 22:08:866 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:867 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:870 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:874 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:587 INFO  TestBase:144 - Initialize Web driver: 1912821769
+2018-08-03 22:08:594 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:595 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:621 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:637 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:354 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:377 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (9a36957ecf48ca10c40b8263f9dd778e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-08-03 22:08:410 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:990 INFO  LoginPage:66 - clicked on sign in link...
+2018-08-03 22:08:400 INFO  LoginPage:73 - entering email address....1529686406836@gmail.com
+2018-08-03 22:08:562 INFO  LoginPage:79 - entering password....password
+2018-08-03 22:08:652 INFO  LoginPage:85 - clicking on submit button...
+2018-08-03 22:08:655 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2018-08-03 22:08:655 INFO  JavaScriptHelper:87 - scrolling down vertically...
+2018-08-03 22:08:940 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:963 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on MAC (9a36957ecf48ca10c40b8263f9dd778e)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-08-03 22:08:988 INFO  WaitHelper:157 - element is visible now
+2018-08-03 22:08:63 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-03 22:08:835 INFO  TestBase:144 - Initialize Web driver: 2067925017
+2018-08-03 22:08:835 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:836 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:840 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:890 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:740 INFO  TestBase:144 - Initialize Web driver: 322112198
+2018-08-03 22:08:740 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:740 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:744 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:748 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:506 INFO  TestBase:144 - Initialize Web driver: 1926004335
+2018-08-03 22:08:514 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:514 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:529 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:533 INFO  WaitHelper:144 - page is loaded
+2018-08-03 22:08:938 INFO  TestBase:144 - Initialize Web driver: 1912821769
+2018-08-03 22:08:944 INFO  WaitHelper:27 - WaitHelper object created..
+2018-08-03 22:08:945 INFO  WaitHelper:37 - Implicit Wait has been set to: 200
+2018-08-03 22:08:954 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2018-08-03 22:08:958 INFO  WaitHelper:144 - page is loaded

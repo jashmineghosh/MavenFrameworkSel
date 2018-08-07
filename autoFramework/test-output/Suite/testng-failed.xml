@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="RegistrationTest(failed)">
+    <classes>
+      <class name="com.autoFramework.myCompany.myProjectFramework.testScripts.registration.RegistrationTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="testRegistration"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.autoFramework.myCompany.myProjectFramework.testScripts.registration.RegistrationTest -->
+    </classes>
+  </test> <!-- RegistrationTest(failed) -->
+  <test name="VerifyLowestFirstPriceFilterTest(failed)">
+    <classes>
+      <class name="com.autoFramework.myCompany.myProjectFramework.testScripts.productDetailsPage.VerifyLowestFirstPriceFilterTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="verifyLowestFirstPriceListInProduct_deatilsPage"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.autoFramework.myCompany.myProjectFramework.testScripts.productDetailsPage.VerifyLowestFirstPriceFilterTest -->
+    </classes>
+  </test> <!-- VerifyLowestFirstPriceFilterTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
